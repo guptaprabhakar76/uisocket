@@ -1,2 +1,2 @@
 # uisocket
-For socket programming PoC
+For UI-based web socket programming PoC.
